@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Ottomaniac</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="namadeveloper">Ammar Al-Ghifary</string>
+    <string name="BioDev">Hope You Boys Like This App</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_wikipedia">Source Information: Wikipedia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="TesJannisaries">The Janissaries were elite infantry units that formed the Ottoman Sultans household troops, bodyguards and the first modern standing army in Europe. The corps was most likely established during the reign of Murad
+        They began as an elite corps of slaves made up of kidnapped young Christian boys who were converted to Islam, and became famed for internal cohesion cemented by strict discipline and order. Unlike typical slaves, they were paid regular salaries. Forbidden to marry or engage in trade, their complete loyalty to the Sultan was expected.[7] By the seventeenth century, due to a dramatic increase in the size of the Ottoman standing army, the corps initially strict recruitment policy was relaxed. Civilians bought their way into it in order to benefit from the improved socioeconomic status it conferred upon them. Consequently, the corps gradually lost its military character.
+        </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="nama_sultan">
+        <item>Suleiman The Magnificent</item>
+        <item>Osman I</item>
+        <item>Murad</item>
+        <item>Mehmed II</item>
+        <item>Murad II</item>
+        <item>Abdul Hamid II</item>
+        <item>Gazi</item>
+    </string-array>
+
+
+    <string-array name="detail_sultan">
+        <item>Suleiman I (Ottoman Turkish: سلطان سليمان اول‎ Sultan Süleyman Evvel; Turkish: Birinci Süleyman, Kanunî Sultan Süleyman or Muhteşem Süleyman 6 November 1494 – 6 September 1566), commonly known as Suleiman the Magnificent in the West and Kanunî Sultan Süleyman (Ottoman Turkish: قانونى سلطان سليمان‎; "The Lawgiver Suleiman") in his realm, was the tenth and longest-reigning Sultan of the Ottoman Empire from 1520 until his death in 1566. Under his administration, the Ottoman state ruled over 15 to 25 million people
+            Suleiman became a prominent monarch of 16th-century Europe, presiding over the apex of the Ottoman Empire's economic, military and political power. Suleiman personally led Ottoman armies in conquering the Christian strongholds of Belgrade and Rhodes as well as most of Hungary before his conquests were checked at the Siege of Vienna in 1529. He annexed much of the Middle East in his conflict with the Safavids and large areas of North Africa as far west as Algeria. Under his rule, the Ottoman fleet dominated the seas from the Mediterranean to the Red Sea and through the Persian Gulf.</item>
+
+        <item>Osman I or Osman Gazi.sometimes transliterated archaically as Othman, was the leader of the Ottoman Turks and the founder of the Ottoman dynasty. He and the dynasty bearing his name later established and ruled the nascent Ottoman Empire (then known as the Ottoman Beylik or Emirate). The state, while only a small principality during Osman's lifetime, transformed into a world empire in the centuries after his death. It existed until shortly after the end of World War I. Historians commonly mark the end date at the abolition of the sultanate in 1922, the proclamation of the Republic of Turkey in 1923, or the abolition of the caliphate in 1924.
+            Due to the scarcity of historical sources dating from his lifetime, very little factual information is known about him. Not a single written source survives from Osman's reign. The Ottomans did not record the history of Osman's life until the fifteenth century, more than a hundred years after his death.[6] Because of this, it is very challenging for historians to differentiate between fact and myth in the many stories told about him.[7] One historian has even gone so far as to declare it impossible, describing the period of Osman's life as a "black hole."</item>
+
+        <item>Murad I was the Ottoman Sultan from 1362 to 1389. He was a son of Orhan and the Valide Nilüfer Hatun.
+              Murad I conquered Adrianople, renamed it to Edirne, and in 1363 made it the new capital of the Ottoman Sultanate. Then he further expanded the Ottoman realm in Southeast Europe by bringing most of the Balkans under Ottoman rule, and forced the princes of northern Serbia and Bulgaria as well as the Byzantine emperor John V Palaiologos to pay him tribute.[2] Murad I administratively divided his sultanate into the two provinces of Anatolia (Asia Minor) and Rumelia (the Balkans). Murad's death against the Serbs would cause the Ottomans to halt their expansion into the territory temporarily and focus their attention once more on the ailing Byzantine Empire</item>
+
+        <item>Mehmed II commonly known as Mehmed the Conqueror (Turkish: Fatih Sultan Mehmet), was an Ottoman Sultan who ruled first for a short time from August 1444 to September 1446, and later from February 1451 to May 1481. At the age of 21, he conquered Constantinople (modern-day Istanbul) and brought an end to the Byzantine Empire. Mehmed continued his conquests in Anatolia with its reunification and in Southeast Europe as far west as Bosnia. Mehmed is considered a hero in modern-day Turkey and parts of the wider Muslim world. Among other things, Istanbul's Fatih district, Fatih Sultan Mehmet Bridge and Fatih Mosque are named after him </item>
+
+        <item>Murad II Murad II's reign was marked by the long war he fought against the Christian feudal lords of the Balkans and the Turkish beyliks in Anatolia, a conflict that lasted 25 years. He was brought up in Amasya, and ascended the throne on the death of his father Mehmed I. His mother was Valide Sultan Emine Hatun (daughter of Suleyman Bey, ruler of Dulkadirids), his father's third consort. Their marriage served as an alliance between the Ottomans and this buffer state, and produced a son, Mehmed II, who would go on to successfully conquer the Byzantine Empire's capital, Constantinople, in 1453.</item>
+
+        <item>Abdul Hamid II was the 34th Sultan of the Ottoman Empire and the last Sultan to exert effective control over the fracturing state.[3] He oversaw a period of decline, with rebellions, particularly in the Balkans, and an unsuccessful war with the Russian Empire. He ruled from 31 August 1876 until he was deposed shortly after the 1908 Young Turk Revolution, on 27 April 1909. In accordance with an agreement made with the republican Young Ottomans, he promulgated the first Ottoman constitution of 1876 on 23 December 1876, which was a sign of progressive thinking that marked his early rule. Later, however, he noticed Western influence on Ottoman affairs and citing disagreements with the Parliament,suspended both the short-lived constitution and Parliament in 1878 and accomplished highly effective power and control.</item>
+
+        <item>Gazi Or Ertuğrul was the father of Osman I, the founder of the Ottoman Empire. While his historicity is proven by coins minted by Osman I which identify Ertuğrul as the name of his father, nothing else is known for certain about his life or activities. According to Ottoman tradition, he was the son of Suleyman Shah, leader of the Kayı tribe of Oghuz Turks, who fled from eastern Iran to Anatolia to escape the Mongol conquests. According to this legend, after the death of his father, Ertuğrul and his followers entered the service of the Seljuks of Rum, for which he was rewarded with dominion over the town of Söğüt on the frontier with the Byzantine Empire.This set off the chain of events that would ultimately lead to the founding of the Ottoman Empire. Like his son, Osman, and their descendants, Ertuğrul is often referred to as a Ghazi,a heroic champion fighter for the cause of Islam.
+        Nothing is known with certainty about Ertuğrul's life, except that he existed and was the father of Osman, the first ruler of what was to become the Ottoman Empire. Historians are thus forced to rely upon stories written about him by the Ottomans more than a century later, which are of questionable accuracy. According to these later traditions, Ertuğrul was chief of the Kayı tribe of Oghuz Turks, as a result of his assistance to the Seljuks against the Byzantines. Ertuğrul was granted lands in Karaca Dağ, a mountainous area near Angora (now Ankara), by Ala ad-Din Kay Qubadh I, the Seljuk Sultan of Rûm. One account indicates that the Seljuk leader's rationale for granting Ertuğrul land was for Ertuğrul to repel any hostile incursion from the Byzantines or other adversary.[7] Later, he received the village of Söğüt which he conquered together with the surrounding lands. That village, where he later died, became the Ottoman capital under his son Osman I. Ertuğrul had two other sons, Saru Batu Savcı Bey and Gündüz Bey</item>
+
+    </string-array>
+</resources>

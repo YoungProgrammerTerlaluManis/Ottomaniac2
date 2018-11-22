@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       >
+
+       <ImageView
+           android:id="@+id/imgSultan"
+           android:layout_width="match_parent"
+           android:layout_height="170dp"
+           android:src="@drawable/osman"
+           />
+
+       <TextView
+           android:id="@+id/txtSultan"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignBottom="@+id/imgSultan"
+           android:padding="15dp"
+           android:text="Osman 1"
+           android:textColor="#c6a700"
+           android:textStyle="bold"
+           android:layout_marginLeft="234dp"/>
+
+
+
+
+
+
+   </RelativeLayout>
+
+</android.support.v7.widget.CardView>
